@@ -12423,25 +12423,7 @@ a:hover {
   content: "e808";
 }
 
-/*------------------------------------------------------------------
-3. Wrapper / #wrapper
--------------------------------------------------------------------*/
 
-#wrapper {
-  font-family: "Source Sans Pro", sans-serif;
-}
-
-img {
-  display: block;
-  width: 100%;
-}
-
-a:hover,
-a:active,
-a:focus {
-  text-decoration: none;
-  outline: none;
-}
 
 /*------------------------------------------------------------------
 4. Main / #main
